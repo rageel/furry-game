@@ -40,10 +40,7 @@ export class Game {
             self.showFurry();
             self.checkCoinCollision();
         }
-        //tutaj sprawdzamy, czy gameOver zwrocilo true, tzn czy wyszedl poza plansze
-        //jesli wyszedl to koniec, nie robimy nic (alert game over)
-        //jesli nie wyszedl, czyli nie gameOver, to ma pokazac nowego furry i sprawdzic
-        //kolizje z moneta
+
     }
     turnFurry(event) {
         switch (event.which) {
