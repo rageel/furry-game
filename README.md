@@ -9,4 +9,4 @@ Technologies used:
 - JavaScript, ES6, HTML, CSS, Webpack.
 
 Live Demo:
-https://rageel.github.io/sit-on-chair/
+https://rageel.github.io/furry-game/
